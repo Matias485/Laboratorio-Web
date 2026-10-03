@@ -9,6 +9,16 @@ Nació como apoyo de **Taller de Programación II**, pero no se queda en el
 temario: cada tema incluye lo que en la práctica vas a necesitar igual, aunque
 no haya entrado en una diapositiva.
 
+## Cómo se ve
+
+![Página de inicio del laboratorio, con las cinco pistas](https://github.com/user-attachments/assets/176ff045-1a98-4a0c-b708-93aede373ce2)
+
+En las pistas de HTML y CSS los ejemplos son editores en vivo: cambiás el código
+y el resultado se actualiza al instante, aislado del estilo del sitio. Cada uno
+viene con una consigna concreta abajo.
+
+![Una lección de CSS con el editor en vivo](https://github.com/user-attachments/assets/831862f3-da26-4ed2-ae3f-09e206157f60)
+
 ## Arrancar
 
 ```bash
@@ -62,7 +72,7 @@ todos de ahí.
 ## Qué hay adentro
 
 ```
-laboratorio-react/
+Laboratorio-Web/
 ├── app/
 │   ├── layout.js          # marco de todas las páginas (la barra lateral vive acá)
 │   ├── globals.css        # todos los estilos del sitio, con variables de color
